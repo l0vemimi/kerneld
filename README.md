@@ -1,2 +1,2 @@
 # kerneld
-nuke android and run real linux on phone
+nuke android spyware and run real linux on phone
